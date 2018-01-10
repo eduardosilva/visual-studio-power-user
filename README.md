@@ -17,3 +17,7 @@ This is a simples and objective guide to nice Visual Studio features.
 ## Shortcut to show Solution Explorer
 
 > `CLTRL + ALT + L`
+
+## Shortcut to collapse all folter in the Solution Explorer
+
+> `CLTRL + ALT + A` (necessário configurar o keyboard shortcut para o ProjectAndSolutionContextMenu)
