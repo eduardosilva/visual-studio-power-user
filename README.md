@@ -13,3 +13,7 @@ This is a simples and objective guide to nice Visual Studio features.
 ![Image](images/peek_code_definition.gif)
 
 > You can use the shortcut ALT + F12
+
+## Shortcut to show Solution Explorer
+
+> `CLTRL + ALT + L`
