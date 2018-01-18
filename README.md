@@ -20,8 +20,22 @@ This is a simples and objective guide to nice Visual Studio features.
 
 ## Shortcut to collapse all folter in the Solution Explorer
 
-> `CLTRL + ALT + A` (necessário configurar o keyboard shortcut para o ProjectAndSolutionContextMenu)
+> `CLTRL + ALT + A` 
+>
+![Image](images/collapse_all.gif)
 
-## Shortcut to open Source Control Explorer
+## Shortcut to open Source Control Explorer - Only available to TFS Source Control
 
-> `CLTRL + ALT + O` (necessário configurar o keyboard shortcut)
+> `CLTRL + SHIT + S + C` 
+>
+> Shortcut to View.TfsSourceControlExploer
+
+![Image](images/collapse_all.gif)
+
+## Shortcut to close all
+
+> `CLTRL + SHIT + F4`
+>
+> Shortcut to Window.CloseAllDocuments
+
+![Image](images/close_all_documents.gif)
