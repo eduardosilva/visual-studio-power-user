@@ -39,3 +39,7 @@ This is a simples and objective guide to nice Visual Studio features.
 > Shortcut to Window.CloseAllDocuments
 
 ![Image](images/close_all_documents.gif)
+
+## Save window layout
+
+![Image](images/save_window_layout.gif)
