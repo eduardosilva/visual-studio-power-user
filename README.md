@@ -43,3 +43,8 @@ This is a simples and objective guide to nice Visual Studio features.
 ## Save window layout
 
 ![Image](images/save_window_layout.gif)
+
+
+## Track Active Item in Solution Explorer
+
+> Tools --> Options--> Projects and Solutions--> Track Active Item in Solution Explorer
