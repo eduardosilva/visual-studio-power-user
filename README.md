@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is a simples and objective guide to nice Visual Studio features.
+This is a simple and objective guide to nice Visual Studio features.
 
 ## Enable scroll map mode
 
@@ -18,7 +18,7 @@ This is a simples and objective guide to nice Visual Studio features.
 
 > `CLTRL + ALT + L`
 
-## Shortcut to collapse all folter in the Solution Explorer
+## Shortcut to collapse all folders in the Solution Explorer
 
 > `CLTRL + ALT + A` 
 >
@@ -48,3 +48,9 @@ This is a simples and objective guide to nice Visual Studio features.
 ## Track Active Item in Solution Explorer
 
 > Tools --> Options--> Projects and Solutions--> Track Active Item in Solution Explorer
+
+## Don't open a browser with a web project (e.g. API Application)
+
+> Project Properties -> Web -> Don't open a page. Wait for a request from a external application.
+
+![Image](images/dont_open_a_browser.gif)
